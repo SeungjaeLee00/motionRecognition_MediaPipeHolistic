@@ -1,4 +1,4 @@
-**MediaPipe Holistic을 활용한 모션 인식 및 특정 행동 수행 여부 판단******
+****MediaPipe Holistic을 활용한 모션 인식 및 특정 행동 수행 여부 판단****
 
 **개요**
 
