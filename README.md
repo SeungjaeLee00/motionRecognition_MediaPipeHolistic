@@ -43,7 +43,7 @@
    cd pose_estimation
    ```
 
-2. 상황에 맞는 코드를 실행합니다. 예를 들어, 비디오 파일을 사용하려면 `video.py`를, 웹캠을 사용하려면 `cam.py`를, 이미지를 사용하려면 `image.py`를 실행합니다.
+2. 상황에 맞는 코드를 실행합니다. 예를 들어, 비디오 파일을 사용하려면 `singlePerson_mediaPipe_Holistic_video.py`를, 웹캠을 사용하려면 `singlePerson_mediaPipe_Holistic_cam.py`를, 이미지를 사용하려면 `singlePerson_mediaPipe_Holistic.py`를 실행합니다.
 
    - 비디오 파일로 모션 인식을 실행하려면:
 
